@@ -12,5 +12,11 @@
 
     <artifactId>bos_dao</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.fmi110</groupId>
+            <artifactId>bos_utils</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

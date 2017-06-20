@@ -54,6 +54,8 @@
     <orderEntry type="module" module-name="bos_utils" />
     <orderEntry type="module" module-name="bos_domain" />
     <orderEntry type="module" module-name="bos_service" />
+    <orderEntry type="module" module-name="bos_dao" />
+    <orderEntry type="module" module-name="bos_cache" />
     <orderEntry type="module" module-name="bos_exception" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.4" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4" level="project" />
